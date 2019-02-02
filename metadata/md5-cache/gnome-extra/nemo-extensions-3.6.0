@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile configure install prepare unpack
+DEPEND=( =gnome-extra/nemo-3.6* ) fileroller? ( app-arch/file-roller ) >=app-portage/elt-patches-20170815 !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.16.1:1.16 >=sys-devel/automake-1.15.1:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DESCRIPTION=extensions for cinnamon's file-manager nemo
+EAPI=5
+HOMEPAGE=https://github.com/linuxmint/nemo-extensions
+IUSE=fileroller
+KEYWORDS=~amd64
+LICENSE=GPL-2
+RDEPEND=( =gnome-extra/nemo-3.6* ) fileroller? ( app-arch/file-roller )
+SLOT=0
+SRC_URI=https://github.com/linuxmint/nemo-extensions/archive/3.6.0.zip -> nemo-extensions-3.6.0.zip
+_eclasses_=autotools	1bf086cdd7356f5c9a4acd9727bd2065	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	b2f01ad412baf81650c23fcf0975fa33	toolchain-funcs	f164325a2cdb5b3ea39311d483988861
+_md5_=64a8b7e797084029c1ed5da4ffd3d6f3
