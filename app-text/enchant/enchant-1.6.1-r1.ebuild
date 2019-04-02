@@ -1,17 +1,17 @@
-# Copyright 1999-2019 Gentoo Foundation
+# Copyright 1999-2019 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI=7
+EAPI=6
+inherit versionator
 
-#MY_PV="$(replace_all_version_separators '-')"
-MY_PV="$(ver_rs 1- 2-)"
+MY_PV="$(replace_all_version_separators '-')"
 DESCRIPTION="Spellchecker wrapping library"
 HOMEPAGE="https://abiword.github.io/enchant/"
 SRC_URI="https://github.com/AbiWord/enchant/releases/download/${PN}-${MY_PV}/${P}.tar.gz"
 
 LICENSE="LGPL-2.1"
 SLOT="0"
-KEYWORDS="alpha amd64 arm ~arm64 hppa ia64 ~mips ppc ppc64 ~sh sparc x86 ~amd64-fbsd ~x86-fbsd ~amd64-linux ~x86-linux ~ppc-macos ~x86-macos ~x86-solaris"
+KEYWORDS="~alpha amd64 arm ~arm64 ~hppa ~ia64 ~mips ~ppc ~ppc64 ~sh ~sparc x86 ~amd64-fbsd ~x86-fbsd ~amd64-linux ~x86-linux ~ppc-macos ~x86-macos ~x86-solaris"
 
 IUSE="aspell +hunspell static-libs test"
 REQUIRED_USE="|| ( hunspell aspell )"
@@ -38,6 +38,7 @@ PATCHES=(
 src_prepare() {
 	default
 	sed -e "/SUBDIRS/ s/unittests//" -i "${S}"/Makefile.{am,in} || die
+	sed -e "s/build_zemberek=yes//" -i "${S}"/configure{.ac,} || die # bug 662484, shouldn't be an issue in 2.2
 }
 
 src_configure() {
@@ -49,6 +50,7 @@ src_configure() {
 		--disable-ispell \
 		--disable-uspell \
 		--disable-voikko \
+		--disable-zemberek \
 		--with-myspell-dir="${EPREFIX}"/usr/share/myspell/
 }
 
