@@ -9,3 +9,5 @@ dev-lang/spidermonkey:system-icu - Use the system-wide dev-libs/icu instead of b
 dev-libs/libgit2:gssapi - Enable GSSAPI support for SPNEGO auth
 dev-libs/libgit2:ssh - Enable SSH transport support
 dev-libs/libgit2:trace - Enable tracing support
+gnome-extra/nemo-extensions:fileroller - Add contextual menu support for compressed files using app-arch/file-roller.
+sci-misc/boinc:cuda - Use nvidia cuda toolkit for projects that support it.
