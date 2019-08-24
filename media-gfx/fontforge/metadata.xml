@@ -6,6 +6,7 @@
 		<name>Dallen Wilson</name>
 	</maintainer>
 	<use>
-		<flag name="fileroller">Add contextual menu support for compressed files using <pkg>app-arch/file-roller</pkg>.</flag>
+		<flag name="woff2">Add support for WOFF2 font format using <pkg>media-libs/woff2</pkg>.</flag>
+		<flag name="spiro">Add support for <pkg>media-libs/libspiro</pkg>, which allows drawing with clothoid splines.</flag>
 	</use>
 </pkgmetadata>
