@@ -1,0 +1,9 @@
+DEFINED_PHASES=install
+DESCRIPTION=D. Wilson's collection of bash scripts for managing his Gentoo system's
+EAPI=7
+HOMEPAGE=https://github.com/dallenwilson/emtools
+KEYWORDS=amd64 x86
+LICENSE=GPL-3
+SLOT=0
+SRC_URI=https://github.com/dallenwilson/emtools/archive/e82c24595139a44187b84278282af582c222839a.tar.gz
+_md5_=8dd94755a715c36c69b9751fe780ac50
