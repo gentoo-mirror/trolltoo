@@ -18,3 +18,4 @@ net-wireless/rtl8821ce-driver 5.5.2_p20191119-r1: ReatlTek 8821ce wifi driver
 sci-electronics/fritzing 0.9.3b-r1: Electronic Design Automation
 sci-misc/boinc 7.14.2: The Berkeley Open Infrastructure for Network Computing
 www-servers/3dm2 10.2.2.1: 3ware 3DM2 CLI Linux from the 10.2.2.1/9.5.5.1 code set 8xxx/95xx/96xx/97xx
+x11-plugins/purple-hangouts 0_p20190606: Hangouts Plugin for libpurple
