@@ -7,5 +7,5 @@ KEYWORDS=amd64 x86
 LICENSE=GPL-3
 RDEPEND=app-portage/layman sys-kernel/genkernel app-portage/eix sys-boot/grub
 SLOT=0
-SRC_URI=https://github.com/dallenwilson/emtools/archive/6eb5b2c5da7648a42d60c36653e036b3388f11bd.tar.gz
-_md5_=c38825db222f06e1937f0eb424040f75
+SRC_URI=https://github.com/dallenwilson/emtools/archive/f18cfae48d3950bee75c77601b5a942fafcba66a.tar.gz
+_md5_=d3decb3983e2ce6f2f0204fc8c6343ca
