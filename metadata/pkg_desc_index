@@ -6,7 +6,7 @@ dev-libs/libgit2 0.23.4: A linkable library for Git
 dev-python/twodict 1.2: Simple two way ordered dictionary for Python
 dev-util/aosp-devel-meta 9: Meta package providing AOSP build environment
 dev-util/lineageos-devel-meta 16.0: Meta package providing LineageOS build environment
-games-action/minecraft-launcher 2.1.10835: Official launcher for Minecraft
+games-action/minecraft-launcher 2.1.11314: Official launcher for Minecraft
 games-misc/hot-babe 0.2.2: Displays the system activity in a very special way ;-)
 games-util/gtkevemon 9999: A standalone skill monitoring application for EVE Online
 gnome-extra/nemo-extensions 3.6.0: extensions for cinnamon's file-manager nemo
