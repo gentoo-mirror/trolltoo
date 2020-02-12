@@ -1,0 +1,11 @@
+DEFINED_PHASES=install
+DESCRIPTION=Eclipse SDK
+EAPI=7
+HOMEPAGE=http://www.eclipse.org
+KEYWORDS=amd64
+LICENSE=EPL-1.0
+RDEPEND=>=virtual/jdk-1.8 x11-libs/gtk+:2
+SLOT=4.14
+SRC_URI=amd64? ( https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2019-12/R/eclipse-java-2019-12-R-linux-gtk-x86_64.tar.gz&r=1 -> eclipse-java-2019-12-R-linux-gtk-x86_64-4.14.0.tar.gz )
+_eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5
+_md5_=1fde8c0ea233035b8338f599d2f30774
