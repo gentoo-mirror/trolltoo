@@ -11,7 +11,7 @@ dev-python/uranium 4.5.0: A Python framework for building 3D printing related ap
 dev-util/aosp-devel-meta 9: Meta package providing AOSP build environment
 dev-util/eclipse-sdk-bin 4.14.0-r1: Eclipse SDK
 dev-util/lineageos-devel-meta 16.0: Meta package providing LineageOS build environment
-games-action/minecraft-launcher 2.1.12464: Official launcher for Minecraft
+games-action/minecraft-launcher 2.1.12872: Official launcher for Minecraft
 games-misc/hot-babe 0.2.2: Displays the system activity in a very special way ;-)
 games-util/gtkevemon 9999: A standalone skill monitoring application for EVE Online
 gnome-extra/nemo-extensions 3.6.0: extensions for cinnamon's file-manager nemo
