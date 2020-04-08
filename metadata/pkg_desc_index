@@ -1,4 +1,4 @@
-app-portage/emtools 1.0.0_p20200404: D. Wilson's collection of bash scripts for managing his Gentoo system(s)
+app-portage/emtools 1.0.0_p20200408: D. Wilson's collection of bash scripts for managing his Gentoo system(s)
 app-text/enchant 1.6.1-r3: Spellchecker wrapping library
 dev-embedded/avr-libc 2.0.0-r1: C library for Atmel AVR microcontrollers
 dev-lang/spidermonkey 24.2.0-r4: Stand-alone JavaScript C library
@@ -26,4 +26,4 @@ net-wireless/rtl8821ce-driver 5.5.2_p20191119-r1 5.5.2_p20200211 5.5.2_p20200403
 sci-electronics/fritzing 0.9.4_p498: Electronic Design Automation
 sci-misc/boinc 7.14.2: The Berkeley Open Infrastructure for Network Computing
 www-servers/3dm2 10.2.2.1: 3ware 3DM2 CLI Linux from the 10.2.2.1/9.5.5.1 code set 8xxx/95xx/96xx/97xx
-x11-plugins/purple-hangouts 0_p20190606-r2: Hangouts Plugin for libpurple
+x11-plugins/purple-hangouts 0_p20190606-r2 0_p20190606-r3: Hangouts Plugin for libpurple
