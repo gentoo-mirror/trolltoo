@@ -1,7 +1,6 @@
 app-portage/emtools 1.0.0_p20200408: D. Wilson's collection of bash scripts for managing his Gentoo system(s)
 app-text/enchant 1.6.1-r3: Spellchecker wrapping library
 dev-embedded/avr-libc 2.0.0-r1: C library for Atmel AVR microcontrollers
-dev-lang/spidermonkey 24.2.0-r4: Stand-alone JavaScript C library
 dev-libs/libarcus 4.5.0 4.6.0: This library facilitates communication between Cura and its backend
 dev-libs/libcharon 4.5.0 4.6.0: This library facilitates communication between Cura and its backend
 dev-libs/libsavitar 4.5.0 4.6.0: C++ implementation of 3mf loading with SIP python bindings
@@ -10,10 +9,9 @@ dev-python/uranium 4.5.0 4.6.0: A Python framework for building 3D printing rela
 dev-util/aosp-devel-meta 9: Meta package providing AOSP build environment
 dev-util/eclipse-sdk-bin 4.14.0-r1: Eclipse SDK
 dev-util/lineageos-devel-meta 16.0: Meta package providing LineageOS build environment
-games-action/minecraft-launcher 2.1.13829: Official launcher for Minecraft
+games-action/minecraft-launcher 2.1.14403: Official launcher for Minecraft
 games-misc/hot-babe 0.2.2: Displays the system activity in a very special way ;-)
 games-util/gtkevemon 9999: A standalone skill monitoring application for EVE Online
-gnome-extra/nemo-extensions 3.6.0: extensions for cinnamon's file-manager nemo
 media-gfx/cura 4.5.0 4.6.1: A 3D model slicing application for 3D printing
 media-gfx/curaengine 4.5.0 4.6.0: A 3D model slicing engine for 3D printing
 media-gfx/fdm-materials 4.5.0 4.6.0: FDM materials for media-gfx/cura
@@ -26,4 +24,4 @@ net-wireless/rtl8821ce-driver 5.5.2_p20191119-r1 5.5.2_p20200211 5.5.2_p20200403
 sci-electronics/fritzing 0.9.4_p498-r1: Electronic Design Automation
 sci-misc/boinc 7.14.2 7.16.6: The Berkeley Open Infrastructure for Network Computing
 www-servers/3dm2 10.2.2.1: 3ware 3DM2 CLI Linux from the 10.2.2.1/9.5.5.1 code set 8xxx/95xx/96xx/97xx
-x11-plugins/purple-hangouts 0_p20190606-r2 0_p20190606-r3: Hangouts Plugin for libpurple
+x11-plugins/purple-hangouts 0_p20190606-r3: Hangouts Plugin for libpurple

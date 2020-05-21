@@ -4,9 +4,6 @@
 
 app-text/enchant:aspell - Adds support for app-text/aspell spell checker
 app-text/enchant:hunspell - Adds support for app-text/hunspell spell checker
-dev-lang/spidermonkey:debug - Enable assertions to allow for easier debugging of programs that link to spidermonkey -- note this will often crash software on regular end-user systems
-dev-lang/spidermonkey:system-icu - Use the system-wide dev-libs/icu instead of bundled -- note, only takes effect when icu flag is enabled
-gnome-extra/nemo-extensions:fileroller - Add contextual menu support for compressed files using app-arch/file-roller.
 media-gfx/fontforge:spiro - Add support for media-libs/libspiro, which allows drawing with clothoid splines.
 media-gfx/fontforge:truetype-debugger - Add support for debugging truetype fonts using media-libs/freetype.
 media-gfx/fontforge:woff2 - Add support for WOFF2 font format using media-libs/woff2.
