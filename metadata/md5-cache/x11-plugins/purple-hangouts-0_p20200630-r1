@@ -8,6 +8,6 @@ KEYWORDS=~amd64
 LICENSE=GPL-3+
 RDEPEND=dev-libs/glib:2 dev-libs/json-glib dev-libs/protobuf-c:= net-im/pidgin sys-libs/zlib
 SLOT=0
-SRC_URI=https://bitbucket.org/EionRobb/purple-hangouts/get/3f7d89bf9ce2.tar.gz -> purple-hangouts-0_p20190606.tar.gz
+SRC_URI=https://github.com/EionRobb/purple-hangouts/archive/5db1007d9ae740c59c363a8918d658289069e675.tar.gz -> purple-hangouts-0_p20200630.tar.gz
 _eclasses_=multilib	2477ebe553d3e4d2c606191fe6c33602	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
-_md5_=bfb9aa1c9aab45c4c48618f72fa0f00c
+_md5_=fef36d5b5e61f7da3bdf31ff0916b553
