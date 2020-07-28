@@ -9,7 +9,7 @@ dev-python/uranium 4.6.0 4.6.2: A Python framework for building 3D printing rela
 dev-util/aosp-devel-meta 9-r1: Meta package providing AOSP build environment
 dev-util/eclipse-sdk-bin 4.14.0-r1: Eclipse SDK
 dev-util/lineageos-devel-meta 16.0: Meta package providing LineageOS build environment
-games-action/minecraft-launcher 2.1.15852: Official launcher for Minecraft
+games-action/minecraft-launcher 2.1.16102: Official launcher for Minecraft
 games-misc/hot-babe 0.2.2: Displays the system activity in a very special way ;-)
 games-util/gtkevemon 9999: A standalone skill monitoring application for EVE Online
 media-gfx/cura 4.6.1 4.6.2: A 3D model slicing application for 3D printing
