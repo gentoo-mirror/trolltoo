@@ -23,5 +23,6 @@ net-print/hplip-plugin 3.19.12: Proprietary plugins and firmware for HPLIP
 net-wireless/rtl8821ce-driver 5.5.2_p20200630: ReatlTek 8821ce wifi driver
 sci-electronics/fritzing 0.9.4_p498-r1: Electronic Design Automation
 sci-misc/boinc 7.16.6: The Berkeley Open Infrastructure for Network Computing
+sys-kernel/it87-driver 0_p20200815: Driver for it87/it86 series hardware monitoring chips.
 www-servers/3dm2 10.2.2.1: 3ware 3DM2 CLI Linux from the 10.2.2.1/9.5.5.1 code set 8xxx/95xx/96xx/97xx
 x11-plugins/purple-hangouts 0_p20200630-r1: Hangouts Plugin for libpurple
