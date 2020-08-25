@@ -1,6 +1,5 @@
 app-portage/emtools 1.0.0_p20200408: D. Wilson's collection of bash scripts for managing his Gentoo system(s)
 app-text/enchant 1.6.1-r3: Spellchecker wrapping library
-dev-embedded/avr-libc 2.0.0-r1: C library for Atmel AVR microcontrollers
 dev-libs/libarcus 4.6.0 4.6.2: This library facilitates communication between Cura and its backend
 dev-libs/libcharon 4.6.0 4.6.2: This library facilitates communication between Cura and its backend
 dev-libs/libsavitar 4.6.0 4.6.2: C++ implementation of 3mf loading with SIP python bindings
