@@ -4,7 +4,7 @@ dev-python/twodict 1.2: Simple two way ordered dictionary for Python
 dev-util/aosp-devel-meta 9-r1: Meta package providing AOSP build environment
 dev-util/eclipse-sdk-bin 4.14.0-r1: Eclipse SDK
 dev-util/lineageos-devel-meta 16.0: Meta package providing LineageOS build environment
-games-action/minecraft-launcher 2.1.16102: Official launcher for Minecraft
+games-action/minecraft-launcher 2.2.909: Official launcher for Minecraft
 games-misc/hot-babe 0.2.2: Displays the system activity in a very special way ;-)
 games-util/gtkevemon 9999: A standalone skill monitoring application for EVE Online
 media-gfx/fontforge 20190801-r1: postscript font editor and converter
