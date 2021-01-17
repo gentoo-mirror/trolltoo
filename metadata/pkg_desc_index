@@ -1,4 +1,4 @@
-app-portage/emtools 1.0.0_p20201111-r1: D. Wilson's collection of bash scripts for managing his Gentoo system(s)
+app-portage/emtools 1.0.0_p20210117: D. Wilson's collection of bash scripts for managing his Gentoo system(s)
 app-text/enchant 1.6.1-r3: Spellchecker wrapping library
 dev-python/twodict 1.2: Simple two way ordered dictionary for Python
 dev-util/aosp-devel-meta 9-r1: Meta package providing AOSP build environment
