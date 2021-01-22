@@ -7,4 +7,3 @@ app-text/enchant:hunspell - Adds support for app-text/hunspell spell checker
 media-gfx/fontforge:spiro - Add support for media-libs/libspiro, which allows drawing with clothoid splines.
 media-gfx/fontforge:truetype-debugger - Add support for debugging truetype fonts using media-libs/freetype.
 media-gfx/fontforge:woff2 - Add support for WOFF2 font format using media-libs/woff2.
-sci-misc/boinc:cuda - Use nvidia cuda toolkit for projects that support it.
