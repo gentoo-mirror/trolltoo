@@ -17,3 +17,4 @@ sci-electronics/fritzing 0.9.4_p498-r1: Electronic Design Automation
 sys-kernel/it87-driver 0_p20200815: Driver for it87/it86 series hardware monitoring chips.
 www-servers/3dm2 10.2.2.1: 3ware 3DM2 CLI Linux from the 10.2.2.1/9.5.5.1 code set 8xxx/95xx/96xx/97xx
 x11-plugins/purple-hangouts 0_p20200630-r1: Hangouts Plugin for libpurple
+x11-terms/Terminus 1.0.134: A terminal for a more modern age
