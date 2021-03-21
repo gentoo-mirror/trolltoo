@@ -3,6 +3,7 @@ DEPEND=kernel_linux? ( >=sys-libs/glibc-2.6.1 ) dev-util/dwarves kernel_linux? (
 DESCRIPTION=ReatlTek 8821ce wifi driver
 EAPI=7
 HOMEPAGE=https://github.com/tomaspinho/rtl8821ce/
+INHERIT=linux-mod
 IUSE=kernel_linux kernel_linux kernel_linux dist-kernel
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
@@ -10,6 +11,6 @@ RDEPEND=kernel_linux? ( >=sys-libs/glibc-2.6.1 ) kernel_linux? ( sys-apps/kmod[t
 REQUIRED_USE=kernel_linux
 RESTRICT=bindist
 SLOT=0
-SRC_URI=https://github.com/tomaspinho/rtl8821ce/archive/7a11dc9a5f387d07b47542a311e5eb5941d4829d.tar.gz
-_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	eutils	2d5b3f4b315094768576b6799e4f926e	l10n	8cdd85e169b835d518bc2fd59f780d8e	linux-info	c90a203b1c14cfa77bd3e37a0e96c955	linux-mod	6eea2d40e8514773bec08ae1be26800b	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	wrapper	4251d4c84c25f59094fd557e0063a974
-_md5_=840aa88ca33a399e90bb5b4bd47890fb
+SRC_URI=https://github.com/tomaspinho/rtl8821ce/archive/897e7c4c15dd5a0a569745dc223d969a26ff5bfc.tar.gz
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	8cdd85e169b835d518bc2fd59f780d8e	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	2d5b3f4b315094768576b6799e4f926e	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	linux-info	c90a203b1c14cfa77bd3e37a0e96c955	linux-mod	6eea2d40e8514773bec08ae1be26800b
+_md5_=02c9be8d3f62a98e41c56f82c1dab7ce
