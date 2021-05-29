@@ -9,7 +9,7 @@ games-mud/tintin 2.01.5 2.02.10: (T)he k(I)cki(N) (T)ickin d(I)kumud clie(N)t
 games-util/gtkevemon 9999: A standalone skill monitoring application for EVE Online
 media-gfx/fontforge 20190801-r1: postscript font editor and converter
 media-libs/libspiro 20190731: A library for drawing beautiful curves
-media-video/tartube 2.3.085: A GUI front-end for youtube-dl
+media-video/tartube 2.3.085 2.3.110: A GUI front-end for youtube-dl
 net-im/discord-bin 0.0.13: All-in-one voice and text chat for gamers
 net-misc/gstm 1.3.6 1.3.7: gSTM is a front-end for managing ssh tunneled port redirections
 net-print/hplip-plugin 3.19.12: Proprietary plugins and firmware for HPLIP
