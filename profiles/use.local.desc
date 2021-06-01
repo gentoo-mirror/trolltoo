@@ -4,6 +4,4 @@
 
 app-text/enchant:aspell - Adds support for app-text/aspell spell checker
 app-text/enchant:hunspell - Adds support for app-text/hunspell spell checker
-media-gfx/fontforge:spiro - Add support for media-libs/libspiro, which allows drawing with clothoid splines.
-media-gfx/fontforge:truetype-debugger - Add support for debugging truetype fonts using media-libs/freetype.
-media-gfx/fontforge:woff2 - Add support for WOFF2 font format using media-libs/woff2.
+media-video/tartube:atomicparsley - Enable command line program for manipulating iTunes-style metadata in MPEG4 files.
