@@ -10,7 +10,7 @@ media-libs/libspiro 20190731: A library for drawing beautiful curves
 media-video/tartube 2.3.110: A GUI front-end for youtube-dl
 net-im/discord-bin 0.0.13: All-in-one voice and text chat for gamers
 net-misc/gstm 1.3.6 1.3.7: gSTM is a front-end for managing ssh tunneled port redirections
-net-wireless/rtl8821ce-driver 5.5.2_p20210321: ReatlTek 8821ce wifi driver
+net-wireless/rtl8821ce-driver 5.5.2_p20211119: ReatlTek 8821ce wifi driver
 sys-kernel/it87-driver 0_p20200815: Driver for it87/it86 series hardware monitoring chips.
 sys-process/bpytop 1.0.67: Linux/OSX/FreeBSD resource monitor
 www-servers/3dm2 10.2.2.1: 3ware 3DM2 CLI Linux from the 10.2.2.1/9.5.5.1 code set 8xxx/95xx/96xx/97xx
