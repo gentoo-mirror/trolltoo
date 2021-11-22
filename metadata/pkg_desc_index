@@ -2,7 +2,7 @@ app-portage/emtools 1.0.0_p20210117: D. Wilson's collection of bash scripts for 
 app-text/enchant 1.6.1-r3: Spellchecker wrapping library
 dev-util/aosp-devel-meta 9-r1: Meta package providing AOSP build environment
 dev-util/lineageos-devel-meta 16.0: Meta package providing LineageOS build environment
-games-misc/hot-babe 0.2.2: Displays the system activity in a very special way ;-)
+games-misc/hot-babe 0.2.2-r1: Displays the system activity in a very special way ;-)
 games-mud/tintin 2.01.5 2.02.10: (T)he k(I)cki(N) (T)ickin d(I)kumud clie(N)t
 games-util/gtkevemon 9999: A standalone skill monitoring application for EVE Online
 media-video/tartube 2.3.110: A GUI front-end for youtube-dl
