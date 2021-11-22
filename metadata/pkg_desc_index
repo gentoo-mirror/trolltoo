@@ -6,7 +6,6 @@ dev-util/lineageos-devel-meta 16.0: Meta package providing LineageOS build envir
 games-misc/hot-babe 0.2.2: Displays the system activity in a very special way ;-)
 games-mud/tintin 2.01.5 2.02.10: (T)he k(I)cki(N) (T)ickin d(I)kumud clie(N)t
 games-util/gtkevemon 9999: A standalone skill monitoring application for EVE Online
-media-libs/libspiro 20190731: A library for drawing beautiful curves
 media-video/tartube 2.3.110: A GUI front-end for youtube-dl
 net-im/discord-bin 0.0.13: All-in-one voice and text chat for gamers
 net-misc/gstm 1.3.6 1.3.7: gSTM is a front-end for managing ssh tunneled port redirections
