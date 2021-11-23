@@ -1,5 +1,5 @@
 DEFINED_PHASES=-
-DEPEND=>=x11-libs/gtk+-3.24.1 dev-libs/libxml2 >=dev-util/intltool-0.35.0
+DEPEND=>=x11-libs/gtk+-3.24.1 dev-libs/libxml2 >=dev-util/intltool-0.35.0 >=dev-libs/libappindicator-12
 DESCRIPTION=gSTM is a front-end for managing ssh tunneled port redirections
 EAPI=7
 HOMEPAGE=https://github.com/dallenwilson/gstm
@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 RDEPEND=net-misc/openssh sys-apps/util-linux
 SLOT=0
-SRC_URI=https://github.com/dallenwilson/gstm/releases/download/1.3.6/gstm-1.3.6.tar.gz
-_md5_=98fee9fb3c1b80c7220432a621d1cfef
+SRC_URI=https://github.com/dallenwilson/gstm/releases/download/1.3.7/gstm-1.3.7.tar.gz
+_md5_=660fe5f53b32d4bec276bc1594b7df97
