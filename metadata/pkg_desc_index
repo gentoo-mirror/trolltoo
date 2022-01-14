@@ -10,5 +10,5 @@ net-im/discord-bin 0.0.13: All-in-one voice and text chat for gamers
 net-misc/gstm 1.3.7-r1: gSTM is a front-end for managing ssh tunneled port redirections
 net-wireless/rtl8821ce-driver 5.5.2_p20211119: ReatlTek 8821ce wifi driver
 sys-kernel/it87-driver 0_p20200815: Driver for it87/it86 series hardware monitoring chips.
-sys-process/btop 1.1.1: A monitor of resources
+sys-process/btop 1.1.4: A monitor of resources
 x11-plugins/purple-hangouts 0_p20200630-r1: Hangouts Plugin for libpurple
