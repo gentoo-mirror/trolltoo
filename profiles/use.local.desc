@@ -4,4 +4,7 @@
 
 app-text/enchant:aspell - Adds support for app-text/aspell spell checker
 app-text/enchant:hunspell - Adds support for app-text/hunspell spell checker
+dev-util/anjuta:devhelp - Enable devhelp integration
+dev-util/anjuta:glade - Build glade plugin for anjuta
+dev-util/anjuta:terminal - Enable terminal plugin based on x11-libs/vte
 media-video/tartube:atomicparsley - Enable command line program for manipulating iTunes-style metadata in MPEG4 files.
