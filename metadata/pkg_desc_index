@@ -1,6 +1,6 @@
 app-portage/emtools 1.0.0_p20220126: D. Wilson's collection of bash scripts for managing his Gentoo system(s)
 app-text/enchant 1.6.1-r3: Spellchecker wrapping library
-dev-util/anjuta 3.34.0-r1: A versatile IDE for GNOME
+dev-util/anjuta 3.34.0-r2: A versatile IDE for GNOME
 dev-util/aosp-devel-meta 9-r1: Meta package providing AOSP build environment
 dev-util/lineageos-devel-meta 16.0: Meta package providing LineageOS build environment
 games-misc/hot-babe 0.2.2-r2: Displays the system activity in a very special way ;-)
