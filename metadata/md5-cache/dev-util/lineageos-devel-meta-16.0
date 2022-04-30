@@ -1,9 +1,0 @@
-DEFINED_PHASES=-
-DESCRIPTION=Meta package providing LineageOS build environment
-EAPI=7
-HOMEPAGE=https://lineageos.org
-KEYWORDS=~amd64 ~x86
-LICENSE=metapackage
-RDEPEND=app-arch/lz4 app-arch/lzop ~dev-util/aosp-devel-meta-9 dev-libs/openssl media-gfx/imagemagick media-gfx/pngcrush media-libs/libsdl
-SLOT=0
-_md5_=50e34c9ac91c9625ae4e84ae6c81dfdf
