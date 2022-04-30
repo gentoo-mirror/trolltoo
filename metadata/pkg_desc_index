@@ -1,3 +1,4 @@
+app-mobilephone/heimdall 2.0.1: Tool suite used to flash firmware onto Samsung devices
 app-portage/emtools 1.0.0_p20220126: D. Wilson's collection of bash scripts for managing his Gentoo system(s)
 app-text/enchant 1.6.1-r3: Spellchecker wrapping library
 dev-util/anjuta 3.34.0-r2: A versatile IDE for GNOME
