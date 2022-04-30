@@ -1,15 +1,15 @@
-# Copyright 1999-2020 Gentoo Authors
+# Copyright 1999-2022 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=7
 
 inherit toolchain-funcs
 
-DESCRIPTION="Hangouts Plugin for libpurple"
-HOMEPAGE="https://bitbucket.org/EionRobb/purple-hangouts"
+DESCRIPTION="Hangouts GoogleChat for libpurple"
+HOMEPAGE="https://github.com/EionRobb/purple-googlechat"
 
-COMMIT="5db1007d9ae740c59c363a8918d658289069e675"
-SRC_URI="https://github.com/EionRobb/purple-hangouts/archive/${COMMIT}.tar.gz -> ${P}.tar.gz"
+COMMIT="1e89ad97e0927025d0329e285436616d55baaf42"
+SRC_URI="https://github.com/EionRobb/purple-googlechat/archive/${COMMIT}.tar.gz -> ${P}.tar.gz"
 
 KEYWORDS="~amd64"
 S="${WORKDIR}/${PN}-${COMMIT}"
