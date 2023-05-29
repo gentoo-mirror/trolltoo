@@ -10,5 +10,5 @@ LICENSE=GPL-3+
 RDEPEND=dev-libs/glib:2 dev-libs/json-glib dev-libs/protobuf-c:= net-im/pidgin sys-libs/zlib
 SLOT=0
 SRC_URI=https://github.com/EionRobb/purple-hangouts/archive/55b9f01d040b240b794700f44d9c21a6cb51251e.tar.gz -> purple-hangouts-0_p20210529.tar.gz
-_eclasses_=toolchain-funcs	14a8ae365191b518fad51caad7a08f3e	multilib	104e1332efb829e2f7cbf89307a474f1
+_eclasses_=toolchain-funcs	14a8ae365191b518fad51caad7a08f3e	multilib	c19072c3cd7ac5cb21de013f7e9832e0
 _md5_=a6b4f3a35b5290536b8a2e2856c290ba
