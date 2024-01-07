@@ -8,4 +8,4 @@ LICENSE=Artistic
 RDEPEND=x11-libs/gtk+:2
 SLOT=0
 SRC_URI=mirror://sourceforge/hotbabe/hot-babe-0.2.2.tar.gz
-_md5_=aeb133435e027019a2e4d6a0ad6ab34d
+_md5_=ee47d56cdc6ad5be1e57e24cce55880f
