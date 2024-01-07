@@ -8,4 +8,4 @@ LICENSE=GPL-3
 RDEPEND=app-eselect/eselect-repository app-portage/gentoolkit sys-kernel/genkernel app-portage/eix sys-boot/grub
 SLOT=0
 SRC_URI=https://github.com/dallenwilson/emtools/archive/bb16da2ee354a0b3175a7d68691060deb07d3226.tar.gz -> emtools-1.0.0_p20240107.tar.gz
-_md5_=1964d8b0959dd789f2043e6db240dc01
+_md5_=d9c786257c4c0e2c63cf8dbfa86d47ef
